@@ -1,0 +1,23 @@
+{
+  "name": "assign1",
+  "version": "1.0.0",
+  "description": "assignment 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruspashko/it338assignment1.git"
+  },
+  "author": "Ostap Pashko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruspashko/it338assignment1/issues"
+  },
+  "homepage": "https://github.com/Bruspashko/it338assignment1#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
